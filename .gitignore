@@ -119,3 +119,7 @@ flycheck_*.el
 
 # undo-tree
 *.~undo-tree~
+
+# CMake & build dir
+CMakeCache.txt
+build/
