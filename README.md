@@ -1,6 +1,6 @@
 # Radio-Hollow
 
-A C++ Vulkan horror game project.
+A C++ OpenGL game project.
 
 # License Notice
 
