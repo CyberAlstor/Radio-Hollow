@@ -2,6 +2,12 @@
 
 A C++ OpenGL game project.
 
+# Building and Installation
+
+```bash
+g++ src/main.cpp src/glad.c -o build/main $(pkg-config --libs glfw3)
+```
+
 # License Notice
 
 **NO WARRENTY** is provided with this project/product.
