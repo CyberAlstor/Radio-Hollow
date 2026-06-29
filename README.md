@@ -1,11 +1,11 @@
 # Radio-Hollow
 
-A C++ OpenGL game project.
+A C++ Vulkan game project.
 
 # Building and Installation
 
 ```bash
-g++ src/main.cpp src/glad.c -o build/main $(pkg-config --libs glfw3)
+
 ```
 
 # License Notice
