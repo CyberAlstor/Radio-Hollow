@@ -1,0 +1,66 @@
+#+STARTUP: overview
+#+AUTHOR: CyberAlstor
+
+* Index
+1) [[Index]]
+2) [[About]]
+3) [[Gameplay]]
+   1) [[Lobby]]
+   2) [[Objective]]
+      1) [[Survival Mechanics]]
+	 1) [[Health Bar]]
+	 2) [[Food Bar]]
+	 3) [[Stamina Bar]]
+	 4) [[Conditions]]
+	    1) [[Hot]]
+	    2) [[Cold]]
+	    3) [[Posion]]
+	 5) [[Invetory]]
+      2) [[Items]]
+	 1) [[Armor]]
+	 2) [[Weapons]]
+	 3) [[Tools]]
+	 4) [[Food]]
+      3) [[Crafting and Construction]]
+	 1) [[Crafting]]
+	 2) [[Buildings]]
+	    1) [[Tents]]
+	    2) [[Cooking Structures]]
+
+* About
+
+* Gameplay
+
+** Lobby
+
+** Objective
+
+*** Survival Mechanics
+
+**** Health Bar
+
+**** Food Bar
+
+**** Stamina Bar
+
+**** Conditions
+
+***** Hot
+
+***** Cold
+
+***** Posion
+
+**** Invetory
+
+*** Items
+
+**** Armor
+
+**** Weapons
+
+**** Tools
+
+**** Food
+
+*** Crafting and Construction
